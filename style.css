@@ -1,17 +1,29 @@
 body {
     text-align: center;
-    background: rgb(232, 235, 84)
+    background: rgb(245, 162, 55)
 }
 .capa { 
-    width:75%;
+    width:60%;
 }
 
 
-.imagem-beneficios{
- width: 75%;
+.imagem-beneficios {
+    width: 50%;
+    text-align: left;
+    background: rgb(245, 162, 55)
+}
 
+ul  {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 100px;
+}
+li{
+padding: 25px;
+font-size: 20px;
 }
 
 
-
-
+. imagem-beneficios {
+    width: 20%;
+}
